@@ -44,7 +44,7 @@ export class Home extends Component {
         return (
             <div className="pure-u-5-5">
             <div className="pure-u-18-24 padding">
-                <input type="text" className="pure-input pure-u-2-5" placeholder="New Url" ref={(v) => this.state.newUrl = v} required="" />
+                <input type="text" className="pure-input pure-u-2-5" placeholder="New Url End" ref={(v) => this.state.newUrl = v} required="" />
 
                 <button className="pure-button pure-button-primary pure-u-lg-2-24" type="submit" onClick={formSubmitUrl} >Create</button>
                 <table className='pure-table-horizontal stretch'>
