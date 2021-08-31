@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Webhooks/static/css/main.00504684.chunk.css",
+    "main.js": "/Webhooks/static/js/main.5c291d8d.chunk.js",
+    "main.js.map": "/Webhooks/static/js/main.5c291d8d.chunk.js.map",
+    "runtime-main.js": "/Webhooks/static/js/runtime-main.cb986640.js",
+    "runtime-main.js.map": "/Webhooks/static/js/runtime-main.cb986640.js.map",
+    "static/css/2.2972b967.chunk.css": "/Webhooks/static/css/2.2972b967.chunk.css",
+    "static/js/2.dd0a9c1c.chunk.js": "/Webhooks/static/js/2.dd0a9c1c.chunk.js",
+    "static/js/2.dd0a9c1c.chunk.js.map": "/Webhooks/static/js/2.dd0a9c1c.chunk.js.map",
+    "index.html": "/Webhooks/index.html",
+    "precache-manifest.6e026d784b5a89a2cdadd85ed46784a3.js": "/Webhooks/precache-manifest.6e026d784b5a89a2cdadd85ed46784a3.js",
+    "service-worker.js": "/Webhooks/service-worker.js",
+    "static/css/2.2972b967.chunk.css.map": "/Webhooks/static/css/2.2972b967.chunk.css.map",
+    "static/css/main.00504684.chunk.css.map": "/Webhooks/static/css/main.00504684.chunk.css.map",
+    "static/js/2.dd0a9c1c.chunk.js.LICENSE.txt": "/Webhooks/static/js/2.dd0a9c1c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb986640.js",
+    "static/css/2.2972b967.chunk.css",
+    "static/js/2.dd0a9c1c.chunk.js",
+    "static/css/main.00504684.chunk.css",
+    "static/js/main.5c291d8d.chunk.js"
+  ]
+}
